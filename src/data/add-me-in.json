@@ -98,5 +98,11 @@
     "nom": "Ramata KA",
     "nomDuProjet": "ToDoList",
     "lienDuRepo": "https://github.com/kumbissk/TodoAppJs"
+  },
+  {
+    "nom": "Mouhamadou Fall Bah",
+    "nomDuProjet": "CRUD Angular avec la communication entre les composant parent et enfant",
+    "lienDuRepo": "https://github.com/mouhamadoufallBah/AngularCommsAndForms"
   }
+  
 ]
